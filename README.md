@@ -8,5 +8,5 @@ Platform: Jupyter Notebook
 
 Neural network: (PyTorch)
 
-torch (torch.nn, torch.nn.functional, torch.Sequential, torch.optim)
-torchvision
+* torch (torch.nn, torch.nn.functional, torch.Sequential, torch.optim)
+* torchvision
