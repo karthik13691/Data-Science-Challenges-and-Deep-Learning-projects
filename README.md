@@ -1,12 +1,15 @@
+# Data Science Take Home Challenges/Projects
+
+Solutions to the Data Science problems in the book "A Collection of Data Science Take-Home Challenges"
+
+
+
 # Neural-Network-Projects
 
-Few Deep Learning projects that I've worked on while learning and developing my ML skills. Here, I upload completed projects on the go as I learn/work on them.
+Few Deep Learning projects that I've worked on while learning and developing my ML skills. I will upload my completed projects on the go as I learn/work on them.
 
 Programming Language: Python
 
-Platform: Jupyter Notebook
+Platform: Jupyter Notebook, AWS SageMaker
 
-Neural network: (PyTorch)
-
-* torch (torch.nn, torch.nn.functional, torch.Sequential, torch.optim)
-* torchvision
+Framework: PyTorch, Tensorflow
