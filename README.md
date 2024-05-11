@@ -12,4 +12,4 @@ Programming Language: Python
 
 Platform: Jupyter Notebook, AWS SageMaker
 
-Framework: PyTorch, Tensorflow
+Framework: PyTorch, Tensorflow, Keras
